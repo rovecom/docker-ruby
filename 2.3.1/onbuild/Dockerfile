@@ -1,4 +1,4 @@
-FROM erwinsteffens/ruby:2.3.1
+FROM rovecom/ruby:2.3.1
 MAINTAINER Dennis de Vaal <ddevaal@rovecom.nl>
 
 ONBUILD COPY Gemfile ./
